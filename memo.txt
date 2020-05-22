@@ -43,3 +43,15 @@ personalisé, sensé décrire les modifications
 effectués.
 
 ==================================
+
+commande : git config user.name <nom>
+
+description : configure le nom utilisé pour 
+signer les paquets
+
+==================================
+
+commande : git config user.email <email>
+
+description : configure l'adresse email utilisé pour 
+signer les paquets

@@ -31,3 +31,15 @@ En gros, c'est un "attention on va
 sauvegarder, prépares-toi !"
 
 ==================================
+
+commande : git commit -m <message>
+
+description : la commande d'enregistement
+des modifications. Une fois les modifications
+ajoutées avec "git add", la commande commit
+permet d'enregistrer définitivement nos
+modifications, en y attachant un message
+personalisé, sensé décrire les modifications
+effectués.
+
+==================================
